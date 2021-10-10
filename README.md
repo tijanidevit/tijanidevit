@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Some of my Github Stats
+### Me on Github
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tijanidevit&show_icons=true&include_all_commits=true)](https://github.com/tijanidevit)
