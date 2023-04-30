@@ -10,7 +10,7 @@
 
 - Newest stuff of **PHP** and **Laravel**, and **Javascript** and **React**
 - **Design systems** and component libraries
-- **Software Architecture
+- **Software Architecture**
 - **Integration and Unit testing**
 
 ### Philosophy
