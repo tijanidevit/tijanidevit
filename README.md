@@ -11,9 +11,7 @@
 - Newest stuff of **PHP** and **Laravel**, and **Javascript** and **React**
 - **Design systems** and component libraries
 - **Software Architecture
-- **Integration and Unit testing** (these days with Testing Library)
-
-<img src="./images/logos.png" aria-label="Tech logos" height="70" />
+- **Integration and Unit testing**
 
 ### Philosophy
 
