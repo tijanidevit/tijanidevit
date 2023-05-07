@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-### Me on Github
-<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p> -->
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=tijanidevit&show_icons=true&include_all_commits=true)](https://github.com/tijanidevit)
-
 ### Fields of Interest
 
 - Newest stuff of **PHP** and **Laravel**, and **Javascript** and **React**
@@ -19,6 +13,10 @@
 2. DOT (do one thing well)
 3. Declarative > Imperative code
 
+### Me on Github
+<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p> -->
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tijanidevit&show_icons=true&include_all_commits=true)](https://github.com/tijanidevit)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tijanidevit&layout=compact)](https://github.com/tijanidevit) -->
 
