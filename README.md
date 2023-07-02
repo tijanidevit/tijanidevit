@@ -16,9 +16,12 @@
 ### Me on Github
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p> -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=tijanidevit&show_icons=true&include_all_commits=true)](https://github.com/tijanidevit)
+<a  href="http://github.com/tijanidevit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tijanidevit&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tijanidevit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tijanidevit&layout=compact)](https://github.com/tijanidevit)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=tijanidevit&show_icons=false&include_all_commits=true&width="24%")](https://github.com/tijanidevit) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tijanidevit&layout=compact)](https://github.com/tijanidevit) -->
 
 [Find me here](https://mustaphatijani.com)
 
