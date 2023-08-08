@@ -11,7 +11,7 @@
 
 1. KISS (keep it simple!)
 2. DOT (do one thing well)
-<!-- 3. Declarative > Imperative code -->
+3. Declarative > Imperative code
 
 ### Me on Github
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p> -->
