@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Fields of Interest
+### What Interests Me
 
 - Newest stuff of **PHP** and **Laravel**, and **Javascript** and **React**
 - **Design systems** and component libraries
@@ -9,12 +9,12 @@
 
 ### Philosophy
 
-1. KISS (keep it simple!)
+1. KISS (keep it simple stupid)
 2. DOT (do one thing well)
 3. Declarative > Imperative code
 
 ### Me on Github
-<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p> -->
+<p align=left> <img src=https://komarev.com/ghpvc/?username=tijanidevit alt=tijanidevit /> </p>
 
 <a  href="http://github.com/tijanidevit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tijanidevit&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tijanidevit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
