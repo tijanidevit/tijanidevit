@@ -1,6 +1,6 @@
 # Hi 👋 I’m Mustapha Tijani
 
-**Nigeria-based Backend Engineer** building scalable, production-ready APIs with **Laravel & PHP, Node and Nest Js**.
+**Software Engineer** building scalable, production-ready APIs with **Laravel & PHP, Node and Nest Js**.
 I ship real systems, handle real traffic, and integrate ML where it actually makes sense.
 
 * **5+ years** building backend systems and APIs (Laravel / PHP)
